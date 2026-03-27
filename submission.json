@@ -1,0 +1,6 @@
+{
+  "prompt": "Create a photorealistic image of a cluttered old tailoring shop. \n\nStep 1: In the center, show an elderly tailor sewing final stitches on a suit draped over one extremely lumpy, wrinkled mannequin with deep folds, asymmetric shoulders, and fabric bulges everywhere. The suit fits it perfectly with extra seams, darts, and patches hugging every single imperfection.\n\nStep 2: In the foreground, place three identical smooth athletic mannequins wearing the exact same suit design. On these smooth ones, the suit hangs comically wrong: baggy and loose in places, bursting at seams in others, collars twisted awkwardly, completely unwearable.\n\nStep 3: Add realistic workshop details: scattered cloth scraps, chalk marks on wooden floor, measuring tape, pins, small window with natural light, dust motes in air. \n\nMake it look like a real photograph taken with professional camera, highly detailed textures, cinematic lighting, no text, no diagrams, no graphs, no labels, no glowing effects, no brains or gears.",
+  "model": "Gemini 3",
+  "concept": "overfitting",
+  "metaphor": "Suit hyper-customized to one lumpy mannequin's every wrinkle perfectly fits it but fails badly on smooth similar mannequins—mirrors memorizing training noise vs generalizing."
+}
